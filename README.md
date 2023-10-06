@@ -1,7 +1,7 @@
-# Stardew Valley Randomizer (More Random Edition)
+# Stardew Valley Randomizer (More Random Edition) (1.5 Fix)
 
 An update for cTooshi's Stardew Valley Randomizer to fix errors, add new features and make the existing features more random.
-Nexus Mods page available here: https://www.nexusmods.com/stardewvalley/mods/5311
+Nexus Mods page available here: https://www.nexusmods.com/stardewvalley/mods/16921
 
 ## Installation
 
@@ -84,7 +84,7 @@ Note the following:
 * In terms of the new items added, the following are randomized:
   * New weapons and boots
   * New enemies' stats and their random item drop
-  * 3 of the new songs - if anyone knows how to get the song IDs of the rest of them, that would be helpful!
+  * All of the New songs.
 * The following are NOT randomized on the new island (these will come in a future update):
   * The new fish will be there as expected. Existing fish tooltips will NOT reflect whether the specific fish will be found on the island.
   * The new crops (including the fruit trees)
@@ -119,7 +119,7 @@ Note the following:
   * The mad-lib style crop descriptions are English
   * Everything else has been internationalized
   
-## Pending Changes for 0.5.0
+Changes for 0.5.0
 * NPC Preference Randomizer (credit to Vertigon)
 * Reworked the NPC skin randomizer so that most NPCs can be randomized with each other - exceptions (perhaps we can address these in the future as well):
   * Dwarf and Krobus, as they're too small
@@ -127,3 +127,9 @@ Note the following:
   * Henchman and Bouncer, as they don't have that many sprites
 * Fixed the rain, animal skins, and NPC skin randomizer settings potentially affecting the RNG for other things
 * Added animal skins and NPC skin randomizer settings to the spoiler log
+
+From Grim's Updates:
+* Option to show songs being replaced in HUD.
+* Option to not have Tapper have a chance to require tapper products in recipe.
+* Critter randomisation has been reworked. You can now add custom groups of critter sprites, any combination of critter may be randomised, and I added an option for every frame of a critter to be randomised to a different group of sprites. (Includes lots of gay frogs.)
+* Added all recipes and most items from the 1.5 Update to the recipe randomiser.
