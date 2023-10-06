@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <EnableHarmony>true</EnableHarmony>
+      <TargetFramework>net5.0</TargetFramework>
+      <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+      <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Lib.Harmony" Version="2.2.2" />
+    <PackageReference Include="Pathoschild.Stardew.ModBuildConfig" Version="4.1.0" />
+  </ItemGroup>
+
+</Project>
